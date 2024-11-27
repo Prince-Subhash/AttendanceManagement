@@ -5,13 +5,13 @@ This project is a simple **Attendance Management System** built with Python usin
 
 ## Project Structure
 
-gopal_project/ │
-├── gui.py # GUI code for interacting with the system 
-├── main.py # Entry point to run the application 
-├── attendance_functions.py # Handles attendance data logic 
-├── file_operations.py # Manages loading and saving attendance data to an Excel file 
-├── attendance.xlsx # Excel file where attendance data is stored 
-└── README.md # Project documentation
+gopal_project/
+│
+├── gui.py
+├── main.py
+├── attendance_functions.py
+├── file_operations.py
+└── attendance.xlsx  # this is where attendance data is saved and loaded from
 
 ## Features
 
